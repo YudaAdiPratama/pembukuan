@@ -71,3 +71,5 @@ class [[eosio::contract("pembukuan")]] pembukuan : public eosio::contract {
 
 
 };
+
+// Yuda Adi Pratama
