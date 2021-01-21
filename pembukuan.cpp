@@ -69,7 +69,5 @@ class [[eosio::contract("pembukuan")]] pembukuan : public eosio::contract {
 
   typedef eosio::multi_index<"pengeluaran"_n, pengeluaran_row> catatan_pengeluaran;
 
-
-};
-
 // Yuda Adi Pratama
+};
